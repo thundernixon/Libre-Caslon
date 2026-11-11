@@ -19159,8 +19159,8 @@ alignment = -1;
 name = e;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 486, 77}";
+name = ogonek.curve;
+transform = "{1, 0, 0, 1, 486, 0}";
 }
 );
 layerId = "7C8D72FA-6E62-4564-8BB2-D9F9BC4EB15A";
@@ -63774,7 +63774,7 @@ width = 458;
 {
 anchors = (
 {
-name = _ogonekcurve;
+name = _ogonek;
 position = "{390, 0}";
 }
 );
